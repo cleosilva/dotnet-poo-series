@@ -11,8 +11,8 @@ Conceitos abordados no projeto:
 - Extensão do C# para Visual Estudio Code
 
 ## Instalação do projeto
-Realize ou download ou clone o repositório através do link: 
-Abra o terminal o digite o comando <b>dotnet run</b></br>
+Realize ou download ou clone o repositório através do comando: git clone https://github.com/cleosilva/dotnet-poo-series.git</br> 
+Abra o terminal na pasta e digite o comando <b>dotnet run</b></br>
 Após este comando no terminal aparecerá a os comandos conforme imagem abaixo.
 
 ![DIO_series_1](https://user-images.githubusercontent.com/82469705/130948470-67155669-8792-4fbb-9ace-bb5c7dfa00be.jpg)
