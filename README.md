@@ -17,7 +17,7 @@ Após este comando no terminal aparecerá a os comandos conforme imagem abaixo.
 
 ![DIO_series_1](https://user-images.githubusercontent.com/82469705/130948470-67155669-8792-4fbb-9ace-bb5c7dfa00be.jpg)
 
-## Testar projeto atrás do Replit
+## Testar projeto no Replit
 Caso queira visualizar o projeto sem instalação você pode acessar o link: https://replit.com/@cleosilva/CadastroSeries-DotNet#main.cs
 
 
